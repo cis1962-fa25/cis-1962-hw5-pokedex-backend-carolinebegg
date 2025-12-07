@@ -1,5 +1,6 @@
 import express from 'express';
 import tokenRouter from './routes/token.routes';
+import boxRouter from './routes/box.routes';
 import { authenticateToken } from "./auth";
 
 const app = express();
@@ -7,6 +8,7 @@ const app = express();
 app.use(express.json());
 
 app.use("/token", tokenRouter);
+app.use("/box", boxRouter);
 
 // Simple test route
 app.get("/health", (_req, res) => {
