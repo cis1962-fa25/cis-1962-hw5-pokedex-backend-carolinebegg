@@ -21,10 +21,10 @@ Copilot generated scaffolding for Express routes and TypeScript structures, whic
 I also used ChatGPT at various stages of this assignment. Here are two representative examples:
 
 Test suite generation + debugging assistance:
-LINK_TO_CHATGPT_CONVO_1
+[LINK_TO_CHATGPT_CONVO_1](https://chatgpt.com/share/e/69380b5a-1c6c-8012-a556-9689cc592e4b)
 
 Caching logic, failing PokeAPI call debugging, and architectural explanations:
-LINK_TO_CHATGPT_CONVO_2
+[LINK_TO_CHATGPT_CONVO_2](https://chatgpt.com/share/e/69380b85-fbd8-8012-bf62-908465fcb29e)
 
 These conversations include context, debugging steps, explanations, and code that helped me work through difficult or time-consuming parts of the assignment.
 
