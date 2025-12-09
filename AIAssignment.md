@@ -18,7 +18,7 @@ Copilot generated scaffolding for Express routes and TypeScript structures, whic
 
 #### ChatGPT Conversations
 
-I also used ChatGPT at various stages of this assignment. Here are two representative examples:
+I also used ChatGPT at various stages of this assignment. These are two chats where I used ChatGPT:
 
 Test suite generation + debugging assistance:
 [LINK_TO_CHATGPT_CONVO_1](https://chatgpt.com/share/e/69380b5a-1c6c-8012-a556-9689cc592e4b)
