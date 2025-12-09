@@ -48,7 +48,10 @@ echo
 section "STEP 2: Testing Pokémon endpoints"
 "$SCRIPT_DIR/test_pokemon.sh"
 
-section "STEP 3: Testing Box endpoints (with token)"
+section "STEP 3: Testing auth error handling on /box"
+"$SCRIPT_DIR/test_auth_errors.sh"
+
+section "STEP 4: Testing Box endpoints (with valid token)"
 "$SCRIPT_DIR/test_box.sh"
 
 echo
